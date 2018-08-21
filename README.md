@@ -48,7 +48,7 @@
 
 4. Make testing app and add tests
 
-5. In the root directory of your library, create a file named .travis.yml (see [example](http://github.com))
+5. In the root directory of your library, create a file named .travis.yml (see [example](https://github.com/densa/travis-react-native-boilerplate/blob/master/.travis.yml))
   - iOS build
   ```
   - os: osx
